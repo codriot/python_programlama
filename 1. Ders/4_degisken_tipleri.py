@@ -5,6 +5,7 @@ d = "asdfasdf"
 e = 'e'
 f = False
 g = 878894564454233454648979797978
+
 print("a :", type(a))
 print("b :", type(b))
 print("c :", type(c))
@@ -14,7 +15,7 @@ print("f :", type(f))
 print("g :", type(g))
 
 h = [1, 2]
-i = {a : "wer", d:"df"}
+i = {a: "wer", d: "df"}
 j = (1, 2, 3)
 
 print("h :", type(h))
