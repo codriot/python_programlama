@@ -7,7 +7,7 @@ print(b[0])
 print(b[4][1])
 
 tr = "Türkiye"
-print(tr[1:4])
+print(tr[1:4])  # 1(dahil) den 4(hariç) e kadar
 
 b[4][1] = [6, 99, 6.5, "zasas"]
 print(b[4][1])

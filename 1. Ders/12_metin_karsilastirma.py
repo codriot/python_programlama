@@ -6,7 +6,7 @@ if a == "Balikesir":
 if "kes" in a:
     print("a da kes var")
 
-if "KES" in a:
+if "KES" in a:  # büyük harf duyarlılığı var
     print("a da KES var")
 
 if "eks" in a:

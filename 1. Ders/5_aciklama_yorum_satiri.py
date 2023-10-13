@@ -14,9 +14,10 @@ den
 fazla açıklama satırı
 '''
 
-a='''sdfsd
+a = '''sdfsd
 sdf
 sdf
 sdf
 '''
-print(a)
+print(a)  # a tanımlanırken alt satıra geçerken "sdsdf\nsdf" şekline \n atarak devam eder
+print("a.type :", type(a))

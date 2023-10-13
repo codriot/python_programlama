@@ -14,4 +14,4 @@ def siralama_fonksiyonu(a):
 
 
 liste.sort(key=siralama_fonksiyonu)
-print(liste)
+print(liste)  # bu mantık artık çalışmıyor mu ? sor

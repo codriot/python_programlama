@@ -1,8 +1,8 @@
 sozluk = {
-  "marka": "Ford",
-  "model": "Mustang",
-  "yil": 1964
-}
+    "marka": "Ford",
+    "model": "Mustang",
+    "yil": 1964
+}  # bütün dillerde olduğu gibi py nin de dictionary şekli key -> value şeklinde
 
 print(sozluk)
 print(sozluk["marka"])
